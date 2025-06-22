@@ -6,3 +6,6 @@ after discussing my game design document, added 9 buttons and made so 1 of them 
 
 # 19.06
 added 3d model, made buttons work, right button press makes canvas turn green, wrong choice will turn it red
+
+# 23.06
+added walls, floor, ceiling, wall materials, window shader

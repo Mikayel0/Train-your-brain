@@ -9,3 +9,17 @@ added 3d model, made buttons work, right button press makes canvas turn green, w
 
 # 23.06
 added walls, floor, ceiling, wall materials, window shader
+
+# 23.06
+made:
+- room
+
+- added materials
+
+- added monitor object
+
+- collisions
+
+- camera movement
+
+- walking ability

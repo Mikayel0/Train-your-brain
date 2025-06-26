@@ -16,5 +16,5 @@
 
 ## next steps
 - Option to play online with other player
-- Online Score Board
+- Online scoreboard
 - Player nicknames

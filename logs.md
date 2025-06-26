@@ -49,7 +49,40 @@ after many tries, made all buttons to have unique color
 
 ofcourse i was testing and improving everything that i've made
 
-## Problems that i had during development
+
+# Test results 25.06 20:30 (Test was done by myself)
+
+## Testing Phases
+ 
+Testing how phases will work. Will it change phases, change button layout, randomize active monitors
+
+### Results
+- In phase 2 buttons were being removed each round until there was left 1
+- Sometimes right button did not appear in button list
+- Button layouts were off
+
+
+
+# Test results 26.06 01:23 (Test was done by myself)
+
+## Testing Score system
+ 
+Testing how score system will work with ai
+
+### Results
+- AI right answers points were being awarded to Player
+- In phase 3 when player has less than 3 points, score was stuck
+
+
+
+
+
+
+
+
+
+
+## All problems that i had during development
 
 All tests were done and fixed by me
 
